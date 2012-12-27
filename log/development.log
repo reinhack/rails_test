@@ -1,0 +1,40 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-12-27 17:12:24 +0700
+Served asset /rails.png - 200 OK (32ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-27 17:27:36 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (64.0ms)
+Compiled welcome.css  (60ms)  (pid 5456)
+Compiled application.css  (142ms)  (pid 5456)
+Compiled jquery.js  (5ms)  (pid 5456)
+Compiled jquery_ujs.js  (0ms)  (pid 5456)
+Compiled welcome.js  (457ms)  (pid 5456)
+Compiled application.js  (610ms)  (pid 5456)
+Completed 200 OK in 1234ms (Views: 1233.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-12-27 17:27:41 +0700
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-12-27 17:27:41 +0700
+Served asset /welcome.css - 200 OK (5ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-12-27 17:27:42 +0700
+Served asset /jquery.js - 200 OK (7ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-12-27 17:27:42 +0700
+Served asset /jquery_ujs.js - 200 OK (5ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-12-27 17:27:42 +0700
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-12-27 17:27:42 +0700
+Served asset /application.js - 200 OK (16ms)
